@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginx-lab:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-07-01T17:56:50.453910432+03:00
+    description: A Helm chart for Kubernetes
+    digest: af6d0be11eda9495223de52c6d5257b5ef6b9c0fbe24b07738433d2097b7f8a6
+    name: nginx-lab
+    urls:
+    - https://vorkos.github.io/helm-repo/nginx-lab-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-07-01T17:56:50.453525371+03:00
